@@ -1,0 +1,25 @@
+body {
+    text-align:center;
+    padding:35px;
+     }
+
+#kolomchat {
+    text-align:left;
+    margin: auto;
+    background:#fff;
+    height:230px;
+    width: 250px;
+    list-style-type: none;
+    border:1px solid black;
+    overflow:auto; }
+  
+#penggunapsn {
+    width:225px;
+    border:1px solid #ACD8F0;
+}
+  
+.pengguna{
+	width: 228px;
+	height: 25px;
+	text-align: center;
+}

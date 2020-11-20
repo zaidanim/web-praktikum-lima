@@ -1,0 +1,55 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {
+	background: #B0C4DE;
+}
+
+
+
+#ini {
+	background: #fbfbfb;
+	border-radius: 8px;
+	box-shadow: 1px 2px 8px rgba(0, 0, 0, 0.65);
+	height: 350px;
+	width: 510px;
+	margin: 40px -90px;
+}
+
+
+#kerangka-title {
+	font-family: sans-serif;
+    letter-spacing: 2px;
+    padding-bottom: 23px;
+    padding-top: 13px;
+    text-align: center;
+}
+
+#ini1 {
+	background: #fbfbfb;
+	border-radius: 8px;
+	box-shadow: 1px 2px 8px rgba(0, 0, 0, 0.65);
+	height: 150px;
+	margin: 80px auto auto auto;
+	width: 329px;
+}
+
+
+#ruang {
+	font-family:sans-serif;
+    letter-spacing: 2px;
+    padding-bottom: 23px;
+    padding-top: 13px;
+    text-align: center;
+}
+
+.dropdown{
+	padding-left: 20px;
+	padding-right: 20px;
+	width: 250px;
+	height: 20px;
+	
+	
+}
+
+

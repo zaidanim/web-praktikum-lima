@@ -1,0 +1,42 @@
+<!DOCTYPEhtml>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title>Web Chat</title>
+		<link rel="stylesheet" type="text/css" href="CSS/style.css">
+		<link rel="stylesheet" type="text/css" href="CSS/text.css">
+		
+	</head>
+
+	<body>
+		<div class="chat-popup" id=myform>
+		<div id="utama" >
+			
+  				<div id="atasan">
+    				<h2>WEB CHAT</h2>
+    				<div class="garisan"></div>
+  				</div>
+			
+
+			<form name="nama" action="" >
+        			<input placeholder="Nama Anda" name="pengguna" type="text" id="pengguna" class="pengguna"  />
+    			</form>
+    			<br>
+			
+    			<div id="kolomchat">
+				
+				</div>
+				<br>
+					<input name="penggunapsn" type="text" id="penggunapsn" class="pengguna" placeholder="Pesan" />
+					<br>
+					<br>
+        			<input name="submitpesan" class="kirim" type="submit" id="submitpesan" value="Send" />
+    				<button type="button" class="kirim" onclick="closeform()">close</button>
+    				</div>
+		</div>
+		</div>
+		<script src="JS/user.js"></script>
+		<button class="open-button" onclick="openform()">Pesan</button>
+		
+	</body>
+</html>
